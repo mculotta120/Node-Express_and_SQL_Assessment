@@ -1,0 +1,5 @@
+database name: zoodb
+id, type, qty
+15	tiger	43
+17	bats	46
+20	dog	62
